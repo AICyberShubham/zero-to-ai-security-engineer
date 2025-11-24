@@ -25,7 +25,7 @@ Your support motivates me to keep improving this project!
 - [Final Goal](#final-goal)
 - [Tech Stack](#tech-stack)
 - [12-Month Learning Plan](#12-month-learning-plan)
-- [PHASE 1 — Foundations (Month 1–2)](#-phase-1-foundations-month-12)
+- [🚀 PHASE 1 — FOUNDATION (Month 1–2))](#-phase-1-foundations-month-12)
 - [PHASE 2 — Machine Learning (Month 3–4)](#-phase-2-machine-learning-month-34)
 - [PHASE 3 — LLM Engineering (Month 5–6)](#-phase-3-llm-engineering-month-56)
 - [PHASE 4 — Cybersecurity (Month 7–9)](#-phase-4-cybersecurity-month-7-9)
