@@ -22,20 +22,16 @@ Your support motivates me to keep improving this project!
 
 ---
 
-# 📌 Table of Contents
-- [🔰 Overview](#-overview)
-- [🏆 Final Goal](#-final-goal)
-- [🛠 Tech Stack](#-tech-stack)
-- [📅 12-Month Learning Plan](#-12-month-learning-plan)
-- [🚀 PHASE 1 — FOUNDATION (Month 1–2)](#)
-- [📘 Phase 2 — ML + Deep Learning](#-phase-2--machine-learning--deep-learning)
-- [📘 Phase 3 — LLM Engineering](#-phase-3--llm-engineering)
-- [📘 Phase 4 — AI for Cybersecurity](#-phase-4--ai-for-cybersecurity)
-- [📘 Phase 5 — LLM Security](#-phase-5--llm-security)
-- [📘 Phase 6 — Master Project](#-phase-6--final-master-project)
-- [🚀 Projects](#-projects)
-- [🎯 Daily / Weekly / Monthly Goals](#-daily--weekly--monthly-goals)
-- [🏁 Final Outcome](#-final-outcome)
+- [Overview](#overview)
+- [Final Goal](#final-goal)
+- [Tech Stack](#tech-stack)
+- [12-Month Learning Plan](#12-month-learning-plan)
+- [PHASE 1 — Foundations (Month 1–2)](#phase-1--foundations-month-12)
+- [PHASE 2 — Machine Learning (Month 3–4)](#phase-2--machine-learning-month-34)
+- [PHASE 3 — LLM Engineering (Month 5–6)](#phase-3--llm-engineering-month-56)
+- [PHASE 4 — Cybersecurity (Month 7–9)](#phase-4--cybersecurity-month-7-9)
+- [PHASE 5 — LLM Security (Month 10–11)](#phase-5--llm-security-month-10-11)
+- [PHASE 6 — Master Project (Month 12)](#phase-6--master-project-month-12)
 
 ---
 
